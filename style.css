@@ -1,0 +1,93 @@
+body {  
+    margin: 4px 4px 4px 4px;
+   
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.avatar {
+    width: 130px;
+    height: 130px;
+    margin: 4px 14px 4px 4px;
+    justify-content: start;
+    align-content: start;
+}
+
+.card {
+    display: flex;
+    height: 138 px;
+    width: 457px;
+    margin: 0px 0px;
+    border: 2px solid black;
+    background-color: white;
+    text-align: start;
+    justify-content: start;
+}
+
+.usrnm {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 20px; 
+    font-weight: 700;
+    color: #000000;
+}
+
+.dcptn {
+    display: block;
+    margin-top: 9px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.icons {
+    display: flex;
+    margin-top: 24px;
+    margin-left: 0px;
+}
+
+.no {
+    margin-left: 14px;
+    margin-top: 0px;
+    font-weight: 500;
+    color: #858991;
+    font-size: 15px;
+}
+
+.number {
+    margin-left: 14px;
+    margin-top: 0px;
+    color: #858991;
+    font-size: 15px;
+}
+
+.nm {
+    margin-left: 14px;
+    margin-top: 0px;
+    color: #858991;
+    font-size: 15px;
+}
+
+.pos1 {
+    width: 20px;
+    height: 20px;
+    
+}
+
+.pos2 {
+    width: 20px;
+    height: 20px;
+    margin-left: 24px;
+}
+
+.pos3 {
+    width: height 20px;
+    height: 20px;
+    margin-left: 24px;
+}

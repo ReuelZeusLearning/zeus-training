@@ -1,0 +1,138 @@
+body {
+    margin: 4px 4px 4px 4px;
+   
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: 'Roboto', sans-serif;
+}
+
+.usrnm {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 20px; 
+    font-weight: 700;
+    color: #000000;
+}
+
+.dcptn {
+    margin-top: 9px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.icons {
+    display: flex;
+    justify-content: start;
+    margin-top: 24px;
+}
+
+.no {
+    margin-left: 10px;
+    margin-top: 0px;
+    font-weight: 500;
+    color: #858991;
+    font-size: 15px;
+}
+
+.number {
+    margin-left: 14px;
+    margin-top: 0px;
+    font-weight: 500;
+    color: #858991;
+    font-size: 15px;
+}
+
+.nm {
+    margin-left: 14px;
+    margin-top: 0px;
+    font-weight: 500;
+    color: #858991;
+    font-size: 15px;
+}
+
+.rpl {
+    width: 20px;
+    height: 20px;
+    
+}
+
+.pos1 {
+    width: 20px;
+    height: 20px;
+    
+}
+
+
+.rtwt {
+    width: 20px;
+    height: 20px;
+    margin-left: 28px;
+}
+
+.pos2 {
+    width: 20px;
+    height: 20px;
+    margin-left: 24px;
+}
+
+
+.lk {
+    width: 20px;
+    height: 20px;
+    margin-left: 28px;
+}
+
+.pos3 {
+    width: 20px;
+    height: 20px;
+    margin-left: 24px;
+}
+
+.rf {
+    width: 200px;
+    height: 20px;
+}
+
+.avatar {
+    width: 130px;
+    height: 130px;
+    margin: 4px 14px 4px 4px;
+    justify-content: start;
+    align-content: start;
+   
+}
+
+.card {
+    width: 457px;
+    height: 138px;
+    margin: 0px 0px;
+    border: 2px solid #222222;
+    display: flex;
+    justify-content: start;
+    text-align: start;
+    background: white;
+}
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
